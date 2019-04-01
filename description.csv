@@ -1,47 +1,48 @@
 icon,description
-alternative_value.svg, "description"
-batch_load.svg
-bio_association.svg
-biology.svg
-book.svg
-cellecting_event.svg
-cellection_object.svg
-citation.svg
-clipboard.svg
-collection.svg
-confidence.svg
-data.svg
-data_attributes.svg
-descriptor.svg
-destroy.svg
-dipictions.svg
-dna.svg
-download.svg
-edit.svg
-eye.svg
-hide.svg
-identifier.svg
-list.svg
-loading_gif_2.gif
-locked.svg
-matrix.svg
-names.txt
-new_source_from_bibtex.svg
-new_source_from_citation.svg
-nomenclature.svg
-observation.svg
-otus.svg
-perferences.svg
-pin.svg
-project.svg
-recent.svg
-report.svg
-reset.svg
-search.svg
-sequence.svg
-source_hub.svg
-tags.svg
-task.svg
-taxonname.svg
-unlock.svg
-user.svg
+alternative_value.svg, ""
+batch_load.svg, ""
+bio_association.svg, ""
+biology.svg, ""
+book.svg, ""
+cellecting_event.svg, ""
+cellection_object.svg, ""
+citation.svg, ""
+clipboard.svg, ""
+collection.svg, ""
+confidence.svg, ""
+data.svg, ""
+data_attributes.svg, ""
+descriptor.svg, ""
+destroy.svg, ""
+dipictions.svg, ""
+dna.svg, ""
+download.svg, ""
+edit.svg, ""
+eye.svg, ""
+hide.svg, ""
+identifier.svg, ""
+list.svg, ""
+loading_gif_2.gif, ""
+locked.svg, ""
+matrix.svg, ""
+names.txt, ""
+new_source_from_bibtex.svg, ""
+new_source_from_citation.svg, ""
+nomenclature.svg, ""
+observation.svg, ""
+otus.svg, ""
+perferences.svg, ""
+pin.svg, ""
+project.svg, ""
+recent.svg, ""
+report.svg, ""
+reset.svg, ""
+search.svg, ""
+sequence.svg, ""
+source_hub.svg, ""
+tags.svg, ""
+task.svg, ""
+taxonname.svg, ""
+unlock.svg, ""
+user.svg, ""
+
